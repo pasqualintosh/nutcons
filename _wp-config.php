@@ -25,16 +25,16 @@
 
 // ** Impostazioni MySQL - È possibile ottenere queste informazioni dal proprio fornitore di hosting ** //
 /** Il nome del database di WordPress */
-define('DB_NAME', 'nome_del_database_qui');
+define('DB_NAME', 'wm3m6biu_nutcons_web');
 
-/** Nome utente del database MySQL */
-define('DB_USER', 'nome_utente_qui');
+/** Nome utente del database MySQL */	
+define('DB_USER', 'wm3m6biu');
 
 /** Password del database MySQL */
-define('DB_PASSWORD', 'password_qui');
+define('DB_PASSWORD', 'k147m3=*jj-]');
 
 /** Hostname MySQL  */
-define('DB_HOST', 'localhost');
+define('DB_HOST', 'lhcp3032.webapps.net');
 
 /** Charset del Database da utilizzare nella creazione delle tabelle. */
 define('DB_CHARSET', 'utf8');
@@ -51,14 +51,14 @@ define('DB_COLLATE', '');
  *
  * @since 2.6.0
  */
-define('AUTH_KEY',         'Mettere la vostra frase unica qui');
-define('SECURE_AUTH_KEY',  'Mettere la vostra frase unica qui');
-define('LOGGED_IN_KEY',    'Mettere la vostra frase unica qui');
-define('NONCE_KEY',        'Mettere la vostra frase unica qui');
-define('AUTH_SALT',        'Mettere la vostra frase unica qui');
-define('SECURE_AUTH_SALT', 'Mettere la vostra frase unica qui');
-define('LOGGED_IN_SALT',   'Mettere la vostra frase unica qui');
-define('NONCE_SALT',       'Mettere la vostra frase unica qui');
+define('AUTH_KEY',         'Vdc%M@Ts<Kb2-&]~&61|wM_JceOg:egg)=qnyaGx*zhvz ,?e.eQw$#rI2H^ySHN');
+define('SECURE_AUTH_KEY',  'Y[-VG.3`;4G+;;bQvrhz-x$}5k!8c A]r`EUPBS+A%g`d~.}oj?5DZ`II,lXys9u');
+define('LOGGED_IN_KEY',    '.pj1>*cU&Q#bNVh>O;j~r2,&+qa;>T[%4FX]g3npBOZ|-6WDxmP4R-hbNO+ug0.=');
+define('NONCE_KEY',        '~{8{!_gti+bW30QI_ tEFn?NS-R/CzW_U)tNW=eLhKOk>MKg; (3U<rZrmXLhW!E');
+define('AUTH_SALT',        'T+]fs(<M$^!4b>7`/?0NiO7124Wu]N|?6LW8-W)xAh=`Q.?KH2gYdlFTIeud{w<E');
+define('SECURE_AUTH_SALT', 'pnr&BfCJ}Km@)`#l6y83Q+*q@j#z^y6=`(9oh&;kyQFMvC>@$-k<O-FjYn,7FGUR');
+define('LOGGED_IN_SALT',   'b1sklLnJviuVNb,>ZI]MY)0~V<_0E;Z-cl+6+ocju)bmtZm+=E_cuF3L`(|u<Y.v');
+define('NONCE_SALT',       ' V[H?MKM#37,(g~YaP%@*.Z~kU.V/d*Ux~<E&~g6n8=*/9JL_%N45_8]g2=+dyE^');
 
 /**#@-*/
 
